@@ -45,7 +45,7 @@ The solution is optimized for **CPU-based systems**, making it suitable for lapt
 The following architecture illustrates the complete workflow of the Human Face Recognition System, from data acquisition and preprocessing to model training, evaluation, and real-time prediction.
 
 <p align="center">
-  <img src="arch_diagram.png" alt="System Architecture" width="850">
+  <img src="Arch_Diagram.jpeg" alt="System Architecture" width="850">
 </p>
 
 ### Workflow
