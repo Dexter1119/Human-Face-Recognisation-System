@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Human Face Recognition System">
+</p>
+
 # 😊 Human Face Recognition System
 ### Deep Learning Based Smile Detection using MobileNetV2
 
@@ -48,41 +52,8 @@ The following architecture illustrates the complete workflow of the Human Face R
   <img src="Arch_Diagram.jpeg" alt="System Architecture" width="850">
 </p>
 
-### Workflow
 
-```text
-CelebA Dataset
-      │
-      ▼
-Data Preprocessing
-(Resize, Normalize,
-Augmentation)
-      │
-      ▼
-Train / Validation / Test Split
-      │
-      ▼
-MobileNetV2 Transfer Learning
-      │
-      ▼
-Fine-Tuning
-(Dense + Dropout Layers)
-      │
-      ▼
-Model Training
-      │
-      ▼
-Performance Evaluation
-(Accuracy, Confusion Matrix)
-      │
-      ▼
-Saved Model (.keras)
-      │
- ┌────┴────┐
- ▼         ▼
-Image      Webcam
-Prediction Detection
-```
+
 ## 🌟 Project Highlights
 
 ✅ Transfer Learning using MobileNetV2
